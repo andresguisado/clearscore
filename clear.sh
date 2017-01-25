@@ -10,5 +10,5 @@ echo "---> Removing clearscore container"
 docker rm $(docker ps --filter "name=clearscore" -q -a)
 
 # Removing nginx image
-echo "---> Removin nginx image
+echo "---> Removing nginx image"
 docker rmi $(docker images | grep "nginx" | awk {'print $3'})
