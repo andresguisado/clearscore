@@ -12,7 +12,7 @@
 
 ### SCRIPTS
 	
-	setup.sh -  Setting up everything
-	conect.sh - Connecting to clearscore container
-	clear.sh - Removing clearscore container and image after have finished 
+	sh setup.sh -  Setting up everything
+	sh conect.sh - Connecting to clearscore container
+	sh clear.sh - Removing clearscore container and image after have finished 
 	
