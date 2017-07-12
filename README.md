@@ -1,6 +1,6 @@
-####################################################
+
 ##   Clearscore challange - Setup instructions      
-####################################################
+
 #### You need to have install git, docker and bash
 
 	git clone git@github.com:andresguisado/clearscore.git
